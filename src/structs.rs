@@ -1,5 +1,4 @@
-use proc_macro2::TokenStream;
-use syn::export::Span;
+use proc_macro2::{TokenStream, Span};
 use syn::*;
 
 use crate::config::Config;
